@@ -1,4 +1,4 @@
-# NodeJS Typescript using Sequelize
+#Node JS Typescript REST API using Sequelize
 
 ## How to run project
 
